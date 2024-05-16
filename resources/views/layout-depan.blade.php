@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="id" lang="id">
 <!-- /Added by HTTrack -->
 <head>
-<title>DINAS TENAGA KERJA DAN PERINDUSTRIAN Kab. Batang Hari</title>
+<title>PUSKESMAS PASAR MUARA TEMBESI</title>
 <link href="{{asset('img/web/logo.png')}}" rel="shortcut icon" /> 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
 
 <meta name="Keywords" content="Batang Hari, Pemerintah Daerah, Kabupaten, Kabupaten Batang Hari, Muara Bulian, Serentak Bak Regam, Dinas Tenaga Kerja dan Perindustrian Kabupaten Batang Hari, Dinas Tenaga Kerja dan Perindustrian, Pengawasan"/>
-<meta name="description" content="Dinas Tenaga Kerja dan Perindustrian">
-<meta name="author" content="Dinas Tenaga Kerja dan Perindustrian Kabupaten Batang Hari">
-<meta name="copyright" content="Dinas Tenaga Kerja dan Perindustrian Kabupaten Batang Hari">
+<meta name="description" content="Puskesmas Pasar Muara Tembesi Kabupaten Batang Hari">
+<meta name="author" content="Puskesmas Pasar Muara Tembesi Kabupaten Batang Hari">
+<meta name="copyright" content="Puskesmas Pasar Muara Tembesi Kabupaten Batang Hari">
 <meta name="rating" content="General">
 <meta name="robots" content="all">
  

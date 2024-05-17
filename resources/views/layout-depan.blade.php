@@ -204,7 +204,7 @@
                 <div class="col-lg-10">
                     <div class="section-title text-center pb-40">
                         <div class="line m-auto"></div>
-                        <h3 class="title">Dinas Tenaga Kerja dan Perindustrian <br><span> Informasi Layanan</span></h3>
+                        <h3 class="title">Puskesmas Pasar <br><span> Muara Tembesi</span></h3>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
@@ -219,7 +219,7 @@
                         <div class="services-content mt-30">
                             <h4 class="services-title"><a href="#">
 								........</a></h4>
-                            <p class="text">......... Dinas Tenaga Kerja dan Perindustrian.</p>
+                            <p class="text">......... Puskesmas Pasar Muara Tembesi.</p>
                             <a class="more" href="#">
 								Selengkapnya <i class="lni-chevron-right"></i></a>
                         </div>
@@ -234,7 +234,7 @@
                         </div>
                         <div class="services-content mt-30">
                             <h4 class="services-title"><a href="#">Tata Nilai</a></h4>
-                            <p class="text">Tata Nilai yang ada di Dinas Tenaga Kerja dan Perindustrian Pemerintah Kab.Batang Hari</p>
+                            <p class="text">Tata Nilai yang ada di Puskesmas Pasar Muara Tembesi Pemerintah Kab.Batang Hari</p>
                             <a class="more" href="#">Selengkapnya <i class="lni-chevron-right"></i></a>
                         </div>
                     </div> <!-- single services -->
@@ -248,7 +248,7 @@
                         </div>
                         <div class="services-content mt-30">
                             <h4 class="services-title"><a href="#">Jadwal Pelayanan</a></h4>
-                            <p class="text">Jadwal Pelayanan di Dinas Tenaga Kerja dan Perindustrian Pemerintah Kabupaten Batang Hari</p>
+                            <p class="text">Jadwal Pelayanan di Puskesmas Pasar Muara Tembesi Pemerintah Kabupaten Batang Hari</p>
                             <a class="more" href="#">Selengkapnya <i class="lni-chevron-right"></i></a>
                         </div>
                     </div> <!-- single services -->

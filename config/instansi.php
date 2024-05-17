@@ -4,7 +4,7 @@ return [
     'alamat' => 'Jl. Jendral Sudirman Muara Bulian',
     'telepon' => ' ',
     'fax' => 'Fax:   ',
-    'email' => 'disnakertran@batangharikab.go.id',
+    'email' => 'info@batangharikab.go.id',
 
 ]; 
     

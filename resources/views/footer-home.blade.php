@@ -21,7 +21,7 @@
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD3sZDKFRZf47zKvJyk_4sLvdUFVhGleJA&callback=initMap"></script>
 <script>
   function initMap() {
-    var originalMapCenter = new google.maps.LatLng(-1.7132967, 103.2627910);
+    var originalMapCenter = new google.maps.LatLng(-1.702584, 103.1038735);
 	var map = new google.maps.Map(document.getElementById('petakontak'), {
   	  zoom: 15,
   	  center: originalMapCenter,

@@ -18,6 +18,7 @@ use Intervention\Image\ImageManagerStatic as Image;
 class PageController extends Controller
 {
       function home(){
+        
          return view('home');
       }
 

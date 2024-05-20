@@ -103,7 +103,7 @@
 				<div class="header-column">
 					<div class="header-logo">
 						<a href="{{url('/')}}" style="padding-left: 5px; padding-top: 5px;">
-							<img width="280" height="40" src="{{asset('img/web/disnakerin.png')}}" alt="Logo Website">
+							<img width="280" height="40" src="{{asset('img/web/pasar-muara-tembesi.png')}}" alt="Logo Website">
 						</a>
 					</div>
 				</div>

@@ -4,15 +4,15 @@
 <head>
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
  
-<title>{{$titlepage}} | DINAS TENAGA KERJA DAN PERINDUSTRIAN</title>
+<title>{{$titlepage}} | PUSKESMAS PASAR MUARA TEMBESI</title>
 <link href="{{asset('img/web/logo.png')}}" rel="shortcut icon" />
 @section("meta-share")
 @show
 <meta name="Keywords" content="{{$titlepage}}, Batang Hari, Pemerintah Daerah, Kabupaten, Kabupaten Batang Hari, Muara Bulian, Serentak Bak Regam, Dinas Tenaga Kerja dan Perindustrian Kabupaten Batang Hari, 
-Dinas Tenaga Kerja dan Perindustrian, Pengawasan"/>
-<meta name="description" content="Dinas Tenaga Kerja dan Perindustrian {{$titlepage}}">
-<meta name="author" content="Dinas Tenaga Kerja dan Perindustrian Kabupaten Batang Hari">
-<meta name="copyright" content="Dinas Tenaga Kerja dan Perindustrian Kabupaten Batang Hari">
+Puskesmas Pasar Muara Tembesi, Pengawasan"/>
+<meta name="description" content="Puskesmas Pasar Muara Tembesi {{$titlepage}}">
+<meta name="author" content="Puskesmas Pasar Muara Tembesi Kabupaten Batang Hari">
+<meta name="copyright" content="Puskesmas Pasar Muara Tembesi Kabupaten Batang Hari">
  
 <meta name="rating" content="General">
 <meta name="robots" content="all">
@@ -78,7 +78,7 @@ Dinas Tenaga Kerja dan Perindustrian, Pengawasan"/>
 				<div class="header-column">
 					<div class="header-logo">
 						<a href="{{url('/')}}" style="padding-left: 5px; padding-top: 5px;">
-							<img width="280" height="40" src="{{asset('img/web/disnakerin.png')}}" alt="Logos">
+							<img width="280" height="40" src="{{asset('img/web/pasar-muara-tembesi.png')}}" alt="Logos">
 						</a>
 					</div>
 				</div>
